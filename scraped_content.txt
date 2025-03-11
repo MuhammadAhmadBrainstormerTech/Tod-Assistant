@@ -1,0 +1,507 @@
+
+
+--- Content from https://toddlersapp.com/documentation ---
+
+User Manual
+Welcome to Toddlers App! We’re excited to have you on board and are here to 
+ensure you get the most out of your experience. This user manual is designed to guide you through the features, setup, and operation of your product, offering step-by-step 
+instructions and helpful tips along the way.
+Dashboard
+Company Dashboard
+Attendance Management
+Admission Queries
+Complaints and Suggestions
+Activities and Planners
+Branch Management
+Student Management
+Classroom Management
+Staff Management
+Student Promotion
+Contact Us
+
+--- Content from https://toddlersapp.com ---
+
+Where Care Meets Technology
+Empowering families and educators to partner in children's growth and simplify daily tasks.
+Discover Our Unique Salient Features That Help Expand Your Network Effortlessly
+Attendance Tracker
+Efficiently track and manage attendance for staff and students in real-time.
+Accounts Management
+Streamline financial processes with automated fee and accounts management.
+Activity Planners
+Organize and schedule activities effortlessly with our intuitive activity planner.
+Health Care
+Track and oversee child's health and medication needs effortlessly.
+Branch Management
+Manage your childcare institute with ease, whether you operate a
+                single location or multiple branches.
+24/7 Support
+Access 24/7 live support for immediate assistance and expert guidance.
+Capture Every Child's Unique Journey
+Toddlers App simplifies childcare business operations, from managing family info to tracking
+                        attendance, automating tuition collection, and streamlining administrative tasks, enabling
+                        providers to focus on children's growth.
+Partnering with numerous early childhood institutions
+The platform transcends basic digital solutions by providing innovative features that enhance
+                    learning and support educator professional growth. It aims to empower educators with comprehensive
+                    tools necessary for excelling in their roles and making a meaningful impact.
+A Truly Collaborative Experience
+Toddlers App is a nursery management platform that prioritizes enhancing collaboration between
+                        childcare providers and families, setting it apart from conventional software which often
+                        hinders communication. It focuses on strengthening relationships and improving
+                        administrative processes like attendance and tuition management.
+Subscribe to our Newsletter to get Latest Updates
+Contact Us
+
+--- Content from https://toddlersapp.com/user-agreement ---
+
+User Agreement
+This User Agreement governs the terms and conditions of use 
+of the ToddlersApp service provided by Brainstormer Technologies. By subscribing to or using the Service, you agree to be bound by this Agreement.
+User Agreement and Conditions
+1. Acceptance of Terms
+By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of 
+                            this Agreement, as well as our Privacy Policy. If you do not agree to these terms, you may not use the Service.
+2. Description of Service
+ToddlersApp is a software-as-a-service (SaaS) platform designed to assist childcare providers in managing their day-to-day operations, 
+                            including but not limited to attendance tracking, tuition management, and parent communication.
+3. Eligibility
+You must be at least 18 years old and capable of entering into a legally binding agreement to use the Service. By using the Service, 
+                                you represent and warrant that you meet these eligibility requirements.
+4. Subscription and Payment
+4.1 Subscription Plans: The Service is available through various subscription plans. The specific features, pricing, and 
+                                terms of each plan are detailed on our website.
+4.1 Subscription Plans:
+4.2. Payment: You agree to pay the subscription fees associated with your chosen plan. All fees are non-refundable, except as 
+                                explicitly provided in this Agreement.
+4.2. Payment:
+4.3. Billing: Subscription fees will be billed in advance on a recurring basis as per the terms of your subscription plan. 
+                                You authorize us to charge your chosen payment method for the applicable subscription fees.
+4.3. Billing:
+5. User Responsibilities
+5.1 Account Security: You are responsible for maintaining the confidentiality of your account credentials and for all 
+                                activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account.
+5.1 Account Security:
+5.2. Compliance with Laws: You agree to use the Service in compliance with all applicable laws and regulations. You shall 
+                                not use the Service for any unlawful or fraudulent purposes.
+5.2. Compliance with Laws:
+5.3. Content: You are solely responsible for all content, data, and information that you upload, post, or otherwise transmit 
+                                via the Service. You grant us a non-exclusive, royalty-free license to use, reproduce, and process your content solely for the purpose 
+                                of providing the Service.
+5.3. Content:
+6. Intellectual Property
+6.1 Ownership: The Service, including all content, software, and technology, is the property of Brainstormer Technologies and 
+                                is protected by intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the Service as 
+                                provided in this Agreement.
+6.1 Ownership:
+6.2. Restrictions: You may not copy, modify, distribute, sell, or lease any part of the Service or reverse engineer or attempt 
+                                to extract the source code of the software.
+6.2. Restrictions:
+7. Privacy
+Our use of your personal information is governed by our Privacy Policy, which is incorporated into this Agreement by reference. By 
+                                using the Service, you consent to the collection, use, and sharing of your information as described in the Privacy Policy.
+8. Limitation of Liability
+8.1 Disclaimer: The Service is provided on an "as-is" and "as-available" basis, without warranties of any kind, either express 
+                                or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and 
+                                non-infringement.
+8.1 Disclaimer:
+8.2. Limitation of Liability: To the maximum extent permitted by law, Brainstormer Technologies shall not be liable for any direct, 
+                                indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or other 
+                                intangibles, arising out of or in connection with your use of the Service, even if we have been advised of the possibility of such 
+                                damages.
+8.2. Limitation of Liability:
+9. Indemnification
+You agree to indemnify, defend, and hold harmless Brainstormer Technologies, its affiliates, and their respective officers, directors, 
+                                employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, 
+                                arising out of or in any way connected with your use of the Service or violation of this Agreement.
+10. Termination
+10.1 Termination by User: You may cancel your subscription and terminate this Agreement at any time through your account 
+                                settings. No refunds will be provided for partial subscription periods.
+10.1 Termination by User:
+10.2. Termination by Company: We reserve the right to suspend or terminate your access to the Service at any time, with or 
+                                without cause, and with or without notice. Upon termination, your right to use the Service will immediately cease.
+10.2. Termination by Company:
+10.3. Survival: Survival: Sections 5, 6, 8, 9, 10.3, and 11 shall survive any termination of this Agreement.
+10.3. Survival:
+11. Governing Law and Dispute Resolution
+11.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of [Your State],
+                                 without regard to its conflict of laws principles.
+11.1 Governing Law:
+11.2. Dispute Resolution: Any disputes arising out of or relating to this Agreement or the Service shall be resolved through 
+                                binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in 
+                                Washington USA, and the language of the arbitration shall be English. The arbitrator’s decision shall be final and binding, and 
+                                judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction.
+11.2. Dispute Resolution:
+12. Modifications to the Agreement
+We reserve the right to modify this Agreement at any time. Any changes will be effective upon posting the updated Agreement on our 
+                                website. Your continued use of the Service after any such changes constitutes your acceptance of the new terms.
+13. Miscellaneous
+13.1 Entire Agreement: This Agreement, along with the Privacy Policy, constitutes the entire agreement between you and 
+                                Brainstormer Technologies regarding the use of the Service.
+13.1 Entire Agreement:
+13.2. Severability: If any provision of this Agreement is found to be unenforceable or invalid, the remaining provisions 
+                                will remain in full force and effect.
+13.2. Severability:
+13.3. Waiver: The failure of either party to enforce any right or provision of this Agreement shall not constitute a waiver 
+                                of future enforcement of that right or provision.
+13.3. Waiver:
+14. Contact Information
+If you have any questions about this Agreement, please contact us at:
+Email: info@toddlersapp.com
+Email:
+Address: 23118 NE 19th DR, Sammamish WA 98074
+Address:
+Phone: +1 (425) 442-4200
+Phone:
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/dashboard ---
+
+Dashboard
+1. Overview
+Welcome to the Dashboard! This page provides a comprehensive overview of key metrics, including total active students, staff, admission queries,
+                                    suggestions, and attendance statistics. This guide will help you navigate and utilize the various features of the dashboard effectively.
+2. Accessing the Dashboard
+2.1 Login: Use your credentials to log in to the system.
+2.1 Login:
+2.2. Navigate: Once logged in, click on the “Dashboard” icon which is located at the top of the sidebar.
+2.2. Navigate:
+3. Dashboard Layout
+The dashboard is divided into several sections, each providing specific statistics. The layout is designed for ease of use and quick access to
+                                    important metrics.
+4. Dashboard Components
+4.1. Total Active Students: Located at the top-left corner of the dashboard. It displays the total number of students currently active.
+                                You can click on the number to access detailed student lists or filter by specific criteria.
+4.1. Total Active Students:
+4.2. Total Staff: Located at the top-right corner of the dashboard. It displays the total number of staff members currently active.
+                                You can click on the number to view staff details.
+4.2. Total Staff:
+4.3. Admission Queries: Located at the mid-left corner of the dashboard. It indicates the total number of admission queries received
+                                and you can view the count of incoming queries from here. You can click on the number to see detailed query information or manage query
+                                responses.
+4.3. Admission Queries:
+4.4. Suggestions: Located at the mid-right corner of the dashboard. It displays the number of suggestions submitted by users and
+                                you can review the total number of suggestions from here. You can click on the number to read through suggestions or view detailed reports.
+4.4. Suggestions:
+4.5. Attendance Stats: Located at the very bottom of the dashboard. It displays the number of students and staff present on the present date.
+                                You can click on the stats to view detailed attendance reports.
+4.5. Attendance Stats:
+5. Latest Complaints
+At the right side of the dashboard you can see a list of all the latest complaints and suggestion with complete detail.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/company-dashboard ---
+
+Company Dashboard
+1. Overview
+Welcome to the Company Dashboard! This dashboard provides quick access to essential management areas, including CMS (Content Management System),
+                                    Branch Management, Classroom Management, Staff Management, Student Management, and Update Student Classroom. This manual will guide you through
+                                    using the dashboard efficiently.
+2. Accessing Company Dashboard
+2.1 Login: Use your credentials to log in to the system.
+2.1 Login:
+2.2. Navigate: Once logged in, click on the “Company Dashboard” icon which is located at the sidebar.
+2.2. Navigate:
+3. Company Dashboard Layout
+The Company Dashboard is designed with a clean and intuitive layout featuring shortcuts to different management sections. Each shortcut is
+                                    represented by an icon and label for easy identification.
+4. Dashboard Shortcuts
+4.1. CMS: It Provides access to the Content Management System for managing website content, articles, and multimedia. By clicking on
+                                the CMS icon you can open the Content Management System interface and easily Manage, create, or edit content as needed.
+4.1. CMS:
+4.2. Branch Management: Allows you to manage various branches of the company. You can click on the Branch Management icon to view and
+                                update branch details. It also allows you to add new branches, edit existing ones, or remove branches from this section.
+4.2. Branch Management:
+4.3. Classroom Management: Access tools for managing classrooms, including scheduling and resource allocation. Just click on the
+                                Classroom Management icon to open the management tools and then you can easily manage classroom resources, and view classroom details.
+4.3. Classroom Management:
+4.4. Staff Management: Provides access to staff management functions, including employee records and scheduling. Click on the Staff
+                                Management icon to view staff details. Update staff records, manage staff schedules, and perform other HR-related tasks.
+4.4. Staff Management:
+4.5. Student Management: Access the student management system for managing student records and information. You can click on the
+                                Student Management icon to view and edit student profiles and Manage student enrollment, track academic progress, and update student details.
+4.5. Student Management:
+4.6. Update Student Classroom: Allows you to update student assignments to different classrooms. Click on the Update Student Classroom
+                                icon to open the update interface. Select a student and assign them to a new classroom or update existing classroom assignments.
+4.6. Update Student Classroom:
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/attendance ---
+
+Attendance Management
+1. Overview
+Welcome to the Attendance Management Module! This module allows you to track and manage attendance for both staff and students. You can view
+                                    attendance records daily or monthly, providing a comprehensive overview of attendance trends. This manual will guide you through accessing and
+                                    utilizing these features effectively.
+2. Accessing Attendance Module
+2.1 Login: Use your credentials to log in to the system.
+2.1 Login:
+2.2. Navigate: Once logged in, click on the “Attendance” icon which is located at the sidebar.
+2.2. Navigate:
+3. Module Layout
+The Attendance Management Module is divided into sections for staff and student attendance, with options to view daily and monthly records.
+                                    The layout is designed to provide easy access to all relevant attendance data.
+4. Attendance Features
+4.1. Student Attendance: The Student Attendance feature provides an overview of attendance records for all students over a selected
+                                period. This feature allows you to monitor and manage attendance patterns, ensuring that students are attending classes as scheduled.
+4.1. Student Attendance:
+Apply filters to view attendance by specific classes, month and year.
+                                    Date Range: Select a month and year to view historical attendance data, which helps in identifying attendance trends and patterns.
+After applying filters. Click on the submit button.
+For getting history, click on clock icon under Attendance History Column and then you can see the attendance history of any student
+                                    as following:
+To see the detail of any specific date, you can click on the detail icon and then you will get the detail as follows:
+4.2. Student Single Attendance: The Student Single Attendance feature allows you to view and manage attendance records for an
+                                individual student on a specific day. This is useful for checking the attendance status of a student and making any necessary updates or
+                                corrections.
+4.2. Student Single Attendance:
+Here you can get the attendance of a specific student of any class of a specific date, select date, classroom and then select student.
+After applying filters. Click on the submit button.
+4.3. Staff Single Attendance: The Staff Single Attendance feature provides a detailed view of attendance records for an individual
+                                staff member on a given day. This functionality is crucial for managing staff attendance, handling exceptions, and maintaining accurate
+                                records.
+4.3. Staff Single Attendance:
+Here, you can get attendance of a specific staff member of specific month and year.
+After applying filters. Click on the submit button.
+4.4. Daily Branch Attendance: The Daily Branch Attendance feature allows you to monitor and review attendance records for all branches
+                                on a daily basis. This feature is essential for assessing attendance trends across different branches and ensuring operational efficiency.
+4.4. Daily Branch Attendance:
+Here, you can get the attendance of all the staff members of branch for a specific date.
+After applying filters. Click on the submit button.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/admission-queries ---
+
+Admission Queries
+1. Overview
+Welcome to the Admission Queries Page! The Admission Queries page provides a centralized platform for managing and tracking inquiries related to
+                                    student admissions. This page allows you to view, respond to, and organize queries from prospective students and their guardians,
+                                    ensuring a streamlined admissions process.
+2. Accessing Admission Queries Module
+2.1 Login: Use your credentials to log in to the system.
+2.1 Login:
+2.2. Navigate: Once logged in, click on the “Admission Queries” icon which is located at the sidebar.
+2.2. Navigate:
+3. Module Layout
+The Admission queries page has two tabs Pending and Closed. So that users can see queries accordingly.
+By clicking on pending tab users can see pending admission queries and by clicking on closed tab, Closed queries will be displayed as shown in
+                                    following:
+4. Changing Status of Queries
+Users can change the status of any specific admission query by clicking on the toggle button in the row of the specific query and then that
+                                    query will be moved in closed queries.
+4. Adding Student for requested query
+If user want to add the student whose admission is requested in the query, it can be easily done by just clicking on "Add Student" icon in the
+                                    row of that specific query.
+After clicking on Add Student, the following screen will open and here user has to enter the detail of student and his/her parent.
+After filling Basic Information, click on next and then the following screen will appear and here user will set the fee cycle for that student.
+After adding the fee cycle, click on submit and the student will be added in the record and then the query will be closed.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/complaints ---
+
+Complaints and Suggestions
+1. Overview
+Welcome to the Complaints and Suggestions module of our system. This page is designed to streamline the process of handling 
+                                feedback from parents, ensuring that all concerns and suggestions are addressed efficiently. Here, you can view, respond to, and manage the 
+                                status of complaints and suggestions submitted by parents.
+2. Accessing Complaints and Suggestions Module
+2.1 Login: Use your credentials to log in to the system.
+2.1 Login:
+2.2. Navigate: Once logged in, click on the “Complaints and Suggestion” icon which is located at the sidebar.
+2.2. Navigate:
+3. Main Interface
+The Complaints and Suggestions page displays a list of all submitted complaints and suggestions. The list includes columns for: Title: Title of the Complaint or Suggestion Status: Current status (Pending, Closed). Detail: The icon for viewing the detail of complaint or suggestion. By clicking on this 
+                                icon users can view the detail of the complaint.
+There is also an option of Action by which user can change the status of the complaint from pending to closed or closed to pending.
+4. Viewing Details of Complaints
+Click on the Details button next to the relevant complaint to view more information. The complaint detail page includes:
+                                The title of the complaint, Complete description of complaint, Any additional comments provided by the parent and history of responses, 
+                                as shown in following:
+5. Responding to Complaints
+Users can respond to any complaint by writing in enter remarks field and the remark will also show in history. After entering remarks just Click
+                                on the submit button and remarks will be send to parent.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/activities ---
+
+Activities and Planners
+1. Overview
+Welcome to Activities and Planners, one of the premium feature of our system. Here users can create activities and planners for any class of
+                                    their nursery. The Activities and Planners module of our Toddlers App offers a streamlined interface for creating and managing
+                                    educational activities and daily planners across all nursery branches. Users can easily design and schedule engaging activities tailored to
+                                    various classes, ensuring age-appropriate and stimulating experiences. Additionally, this feature allows for the creation of detailed planners
+                                    for any number of days, facilitating well-organized and structured daily schedules. This comprehensive tool helps maintain a dynamic and
+                                    enriching learning environment, tailored to the unique needs of each class.
+2. Accessing Activities and Planners Module
+2.1 Login: Use your credentials to log in to the system.
+2.1 Login:
+2.2. Navigate: Once logged in, click on the “Activities” icon which is located at the sidebar.
+2.2. Navigate:
+3. Main Interface
+After coming on activities module. You will get four options of Areas, Library, Create Planner, Update Planner as shown in above image.
+                                    Let's Discover about all these one by one.
+3.1. Areas:
+Here, you will get the list of all the areas created for the activities. Like for activities of mathematics the main area will be mathematics.
+You can add new areas by clicking on the Add Activity Area button at top-left of this page. After clicking on that
+                                    button a you will see a modal as shown in following. Here you will have to enter the name of area for adding new activity and select the branch
+                                    for which you want to add this new activity area. After doing all these steps just click on submit and your new activity area will be created.
+3.2. Activity Libraries:
+Here, you will see the list off all the activites added. Under public tab the activities that are added for all classes will be shown and after that
+                                    there are tabs of all classes of user's nursery and by clicking on the tab of any class users can see the list of activities added for that specific
+                                    classes.
+If users want to see the complete detail of any activity they can do so by clicking on the detail icon against that activity.
+                                    After clicking on detail icon, the detail of that activity will be shown.
+How to add new Activity?
+To add a new activity you can click on Add Library button at the top-right of this page. Ater clicking on this button. Add all the necessary detail of
+                                    activity.
+Select title for activity, branch in which you want to add this activity, classroom and if you want to make the activity public then donot select any
+                                    classroom. After this select the area for activity and then add description as shown in above. After this click on submit button. The new activity will
+                                    be added.
+3.3. How To Create Planners:
+To create Planners you have to have click on create planners.
+On this screen, first you have to select the title for the planner. You can select title from given options and if you want to write your own title,
+                                    then click on other and then after this you can enter the title of your own choice. After this you will have to select branch and classroom for which
+                                    you want to create the planner.
+After this just click on submit.
+Here you will see calendar for the current week, now to add activity just click on the relevant slot. Like if I want to add activity on wednesday at 9am,
+                                    I will click on that slot and then you will see activities and then you will have to select the activity you want to add in that slot.
+After this, you have to take cursor on the activity you want to add and you will see two options. Add to selected day and Add to complete week. Select the option
+                                    according to your choice.
+You can also search activites by clicking in search bar and you can also add a new activity library at that moment. By clicking on add Library at top right.
+After selecting activity, that activity will be added in the selected slot.
+You can also delete any activity just clicking on that activity and then clicking on delete button.
+After finalizing all the activities for the planner. Click on Create Planner at the top-right and the planner will be created.
+3.4. How To Update Planners:
+If you want to update any planner that you have created, click on update planners and you will jump on the following screen:
+After this, select classroom and title of the planner which you want to update and then click on submit. After this repeat the same process as to create planner to update any planner.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/add-branch ---
+
+Branch Management
+1. Overview
+At Toddlers App, we are dedicated to fostering excellence in early childhood education by supporting the growth and expansion of nurseries
+                                    across multiple locations. Our comprehensive solutions are designed to streamline the establishment and management of nursery branches,
+                                    ensuring each location delivers a consistent, high-quality experience for children, parents, and staff. Following is the step-by-step
+                                    process for adding a new nursery branch, detailing the necessary procedures, key responsibilities, and best practices to facilitate a
+                                    smooth and effective setup. With our support, you can focus on what matters most—providing exceptional care and education to young learners,
+                                    while we handle the complexities of branch expansion.
+2. How to access Branch Management?
+To access branch management, first you have to go to Company Dashboard By clicking on Company Dashboard icon from side bar. After this, you will
+                                    have to click on Branch Management icon.
+In Branch Management, you will see the list of all branches that are added and if there is no branch added then this page will be empty. Now, to
+                                    add new branch you will have to click on ADD BRANCH button which is at the top-right of branch management page. After clicking on this button,
+                                    a form will open where you will have to add the detail of branch.
+You will have to fill all the fields and remember when you will click in latitude and longitude, it will ask for location permission. You will
+                                    have to allow this permission and it will automatically set the latitude and longitude for your branch according to the location. After this
+                                    just click on submit button and the new branch will be added successfully.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/student-management ---
+
+Student Management
+1. Overview
+At Toddlers App, we are committed to creating enriching educational environments that support the developmental needs of every child. As part
+                                    of our mission, we offer comprehensive support for adding students in branches and classrooms, ensuring that each child receives the
+                                    best possible learning experience in a well-organized and nurturing setting.
+2. How to access Student Management?
+To access student management, first you have to go to Company Dashboard By clicking on Company Dashboard icon from side bar. After this, you will
+                                    have to click on Student Management icon.
+3. Adding New Student
+In Student Management, you will see the list of all the students of the branch that is selected in the environment and if there is no student
+                                    added then this page will be empty. Now, to add new student you will have to click on ADD STUDENT button which is at the top-right of student management page.
+                                    After clicking on this button, A form will open where you will have to add the detail of student and his or her parent.
+After adding the detail of student and parent click on next and a form will appear where you will set the fee structure and the installment plans for fee.
+After this just click on submit and the student will be added.
+4. Updating Information of any Student
+To update the information of any student, On student management page go to the row of student you want to update among the table of all Students
+                                    and just click on the name of that student and the student update form will open.
+Here you will see the fields will already filled with the previous data and you can now update any of the field that you want including image
+                                    of student. After this just click on the update button at the bottom and the record will be updated.
+5. Updating Fee Cycle of Students
+If you want to update fee cycle of any student, you can do so easily by just clicking on three dots in the actions column of that student.
+                                    Then you will see some options among them you have to select the first one which is fee cycle.
+Here you will see all the fee cycles added for that student and against every fee cycle you will see an update icon unless the fee
+                                    is not paid. Once the fee is paid the update icon will not appear against that fee cycle.
+Now to update click on the update icon against the fee cycle that you want to update.
+Here you will see the fields will be already filled with the previous data and you can now update any of the field that you want. After this
+                                    just click on the submit button at the bottom and the fee cycle will be updated.
+5. Adding new fee cycle for existing student
+If you want to add new fee cycle for the student you can do so by clicking on three dots in the actions column of that student.
+                                    Then you will see some options among them you have to select the second one which is Add fee cycle.
+Fill the values in all the fields and select installments as per your choice.
+Then click on submit. The new fee cycle will be added.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/class-management ---
+
+Classroom Management
+1. Overview
+Welcome to Toddlers App Classroom Management System!
+                                    At Toddlers App, we are dedicated to providing a nurturing and organized environment for our youngest learners. Our Classroom
+                                    Management module is designed to streamline the process of adding and managing classrooms across all nursery branches, ensuring that
+                                    every classroom is effectively supported and every child’s needs are met with care and precision.
+2. How to access Classroom Management?
+To access classroom management, first you have to go to Company Dashboard By clicking on Company Dashboard icon from side bar. After this, you will
+                                    have to click on Classroom Management icon.
+In classroom management, you will see the branch name and the classrooms of that branch.
+3. Adding New Classroom
+To add a new classroom, you will have to click on the ADD CLASSROOM button which is at the top-right of the classroom management page.
+                                    After clicking on this button, a form will open and you will have to enter the classroom name, branch in which you want to add this class,
+                                    the number of maximum students in that class and the annual fee for that class.
+After this, just click on submit button at the bottom and the classroom will be added.
+4. How to update classroom?
+To update the information and detail of any classroom click on the icon under the Classroom Detail column against the branch of which classroom
+                                    you want to update.
+After doing so you the list of all the classrooms of that branch will appear.
+Now to edit the information of any specific class, just click on the edit icon in the row of class that you want to update and then the
+                                    update form will open in which all the fields will be already filled with the previous data and you can now update any of the field that you want
+                                    as shown in following:
+After this just click on the submit button at the bottom and the classroom will be updated.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/staff-management ---
+
+Staff Management
+1. Overview
+Welcome to the Toddlers App Staff Management Module!
+                                    At Toddlers App, we understand that a dedicated and well-organized team is at the heart of providing exceptional care and education to our
+                                    young learners. Our Staff Management Module is crafted to help you efficiently oversee and coordinate your nursery staff across all branches,
+                                    ensuring a cohesive and empowered team.
+2. How to access Staff Management?
+To access staff management, first you have to go to HR Management By clicking on HR Management icon from side bar. After this, you will
+                                    have to click on Staff Management icon.
+In staff management, you will see the list of all the staff added in your nursery.
+3. Adding New Staff Members
+To add a new staff members in your nursery, you will have to click on ADD STAFF button at the top-right of the staff management page. When you
+                                    will click on this button the Add Staff form will open where you will have to enter the detail of the staff to be added and note that you can
+                                    add one staff in more than one branch of your nursery. For example, if you are adding a carpenter and he will work in all of your branches than
+                                    you can can select all the branch while selecting the branch when you would be adding that staff in your system.
+                                    Then if the staff member that you are adding is a teacher than you can assign classrooms to that staff by selecting classrooms and you can also
+                                    give permissions to the staff that you are adding.
+After this, just click on submit button at the bottom and the new staff will be added.
+4. How to Update Staff?
+To update any staff member you will have to click on the name of that staff member form the list of all staff showing in table in staff
+                                    management page and the update staff form will open in which all the fields would be already filled with the previous data and you can now update any of the field that you want.
+After this, just click on submit button at the bottom and the staff will be updated.
+Contact Us
+
+--- Content from https://toddlersapp.com/documentation/student-promotion ---
+
+Student Promotion from one class to other
+1. Overview
+Welcome to the Toddlers App Student Promotion Module!
+                                    At Toddlers App, we celebrate each milestone in our students’ educational journeys with enthusiasm and care. Our Student Promotion Module is
+                                    designed to simplify and streamline the process of advancing students from one class to the next, ensuring a smooth and seamless transition
+                                    for every child.
+2. How to access Student Promotion Module
+To access student promotion page, first you have to go to Company Dashboard By clicking on Company Dashboard icon from side bar. After this, you will
+                                    have to click on Student Class Update icon.
+2. How to update Student Classroom
+To update classroom of any student first you will have to select the classroom of which student you want to update classroom and then click on
+                                    the submit button and then the list of all the students of selected classroom will be shown.
+Now you will have to select the classroom in which you want to promote the student from the Promote To column against the student which you want to
+                                    promote.
+After this just click on submit button which is at the bottom-right and the student will be transfered to the selected class and you will
+                                    see the success message.
+Contact Us
