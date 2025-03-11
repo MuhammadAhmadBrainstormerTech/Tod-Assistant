@@ -9,6 +9,7 @@ import nltk
 from sumy.parsers.plaintext import PlaintextParser
 from collections import Counter
 from nltk.tokenize import sent_tokenize, word_tokenize
+from flask_compress import Compress
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lsa import LsaSummarizer
 from flask import Flask, request, jsonify
@@ -450,14 +451,9 @@ def adjust_response_wording(response, query):
 
     return adjusted_response
 
-
-from flask import Flask, request, jsonify
-import os
-import numpy as np
-import faiss
-import random
-
 app = Flask(__name__)
+Compress(app)  # Enable gzip compressioncommi
+
 
 # Default value for FAISS search
 TOP_K = 3

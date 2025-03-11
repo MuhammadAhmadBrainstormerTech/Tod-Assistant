@@ -20,3 +20,4 @@ env/
 instance/
 config.py
 .env
+.vercel
